@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Home Demo
 white_header: true
 sections:
   - type: hero_section
